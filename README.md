@@ -1,7 +1,7 @@
-# Classification Models Project
+## Classification Models Project
 Explore supervised machine learning classification algorithms on real-world datasets
 
-📊 Overview
+# 📊 Overview
 This repository contains a collection of Jupyter notebooks where I apply various classification techniques to structured datasets. You’ll find:
 
 Binary and multi-class classification problems
@@ -20,7 +20,7 @@ Evaluation using accuracy, precision, recall, F1-score
 
 Confusion matrix visualization and insights
 
-🧪 Notebooks
+# 🧪 Notebooks
 Logistic_Regression.ipynb – Classify data using logistic regression
 
 KNN_Model.ipynb – Use k-Nearest Neighbors to predict class labels
